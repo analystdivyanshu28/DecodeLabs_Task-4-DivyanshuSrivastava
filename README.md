@@ -1,4 +1,4 @@
-# 📊 📊 Week 4 Task – Data Visualization of E-Com sales analysis.
+# 📊  Week 4 Task – Data Visualization of E-Com sales analysis.
 
 ## 🚀 Project Overview
 This Power BI dashboard provides a comprehensive analysis of e-commerce sales performance through 
@@ -95,8 +95,11 @@ ________________________________________________________________________________
 
 ## 👨‍💻 Internship Project
 Program: Data Analyst Internship
+
 Organization: DecodeLabs
+
 Week: 4
+
 Project: E-Commerce Sales Analysis Dashboard (Power BI)
 
 
